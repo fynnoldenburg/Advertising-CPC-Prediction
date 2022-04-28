@@ -1,4 +1,6 @@
-# "Cracking Google's Ad Rank Algorithm: A Deep Learning Approach To Cost-Per-Click Prediction"
+<p align="center">
+ <img src="media/thesis_cover.png" width="400"/>
+</p>
 
 ## Stage 1: Timeseries Forecasting Algorithm (Goal 3 Months June - August 2022)
 Test different models from univariate statistical to complex deep learning to predict advertiser CPC on multiple horizons.
