@@ -1,6 +1,6 @@
-## Forecasting Cost-Per-Click Using Explainable Deep Learning:
+# Forecasting Cost-Per-Click Using Explainable Deep Learning:
 
-# Multivariate Modelling of the Competitive Online Bidding Landscape and Budgeting Strategies
+## Multivariate Modelling of the Competitive Online Bidding Landscape and Budgeting Strategies
 
 *Fynn Oldenburg, Qiwei Han and Maximilian Kaiser*
 
