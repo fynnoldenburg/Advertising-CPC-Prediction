@@ -5,6 +5,4 @@
 *Fynn Oldenburg, Qiwei Han and Maximilian Kaiser*
 
 
-This folder contains the implementation of our proposed modelling procedure for Google cost-per-click prediction (CPC) together with a small anonymized subsample of the data used in our study. The demo notebook is intended as a transparent walkthrough showing how each individual module works. The code can also be run as a whole from terminal by calling main.py.
-
-Find a demonstration of the modules included in this repository [here](demo.ipynb)
+This folder contains the implementation of our proposed modelling procedure for Google cost-per-click prediction (CPC) together with a small anonymized subsample of the data used in our study. The [demo notebook](demo.ipynb) is intended as a transparent walkthrough showing how each individual module works. The code can also be run as a whole from terminal by calling main.py.
